@@ -1,0 +1,233 @@
+body {
+  padding: 45px 0;
+  font: 17px 'Open Sans', "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+  background-image: url("img/Austin_Evening.jpg");
+  font-weight: bold;
+}
+
+#weather {
+  margin: 0px auto;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+#weather h2 {
+  margin: 50px 0px 0px 0px;
+  color: #fff;
+  font-size: 20px;
+  text-align: center;
+  text-shadow: 0px 1px 3px rgba(0, 0, 0, 0.15);
+}
+
+#weather ul {
+  margin: 10px;
+  padding: 0;
+}
+
+#weather li {
+  background: #fff;
+  background: rgba(255,255,255,0.90);
+  padding: 20px;
+  display: inline-block;
+  border-radius: 5px;
+}
+
+#weather .currently {
+  margin: 0 20px;
+}
+
+#weather .weatherbox {
+  background: #fff;
+  background: rgba(255,255,255,0.50);
+  margin: 50px;
+  display: inline-block;
+  border-radius: 5px;
+}
+/********* current ************/
+#currentDetail {
+  display: none;
+  margin: 0px auto;
+  text-align: left;
+  text-transform: uppercase;
+}
+
+#currentDetail h2 {
+  margin: 25px 0px 25px 0px;
+  color: #fff;
+  font-size: 20px;
+  text-align: center;
+  text-shadow: 0px 1px 3px rgba(0, 0, 0, 0.15);
+}
+
+#currentDetail ul {
+  margin: 10px;
+  padding: 0;
+}
+
+#currentDetail li {
+  background: #fff;
+  background: rgba(255,255,255,0.90);
+  padding: 20px;
+  display: inline-block;
+  border-radius: 5px;
+}
+
+#currentDetail .currently {
+  margin: 0 20px;
+}
+
+#currentDetail .weatherbox {
+  background: #fff;
+  background: rgba(255,255,255,0.50);
+  margin: 50px;
+  display: inline-block;
+  border-radius: 5px;
+}
+
+#currentDetail .currently {
+  margin: 10px 10px;
+}
+
+/********* forecast 1 ************/
+#forecast1Detail {
+  display: none;
+  margin: 0px auto;
+  text-align: left;
+  text-transform: uppercase;
+  position: absolute; 
+  left: 525px;
+}
+
+#forecast1Detail h2 {
+  margin: 25px;
+  color: #fff;
+  font-size: 20px;
+  text-align: center;
+  text-shadow: 0px 1px 3px rgba(0, 0, 0, 0.15);
+}
+
+#forecast1Detail ul {
+  margin: 10px;
+  padding: 0;
+}
+
+#forecast1Detail li {
+  background: #fff;
+  background: rgba(255,255,255,0.90);
+  padding: 20px;
+  display: inline-block;
+  border-radius: 5px;
+}
+
+#forecast1Detail .currently {
+  margin: 0 20px;
+}
+
+#forecast1Detail .weatherbox {
+  background: #fff;
+  background: rgba(255,255,255,0.50);
+  margin: 50px;
+  display: inline-block;
+  border-radius: 5px;
+}
+
+#forecast1Detail .currently {
+  margin: 10px 10px;
+}
+
+/********* forecast 2 ************/
+#forecast2Detail {
+  display: none;
+  margin: 0px auto;
+  text-align: left;
+  text-transform: uppercase;
+  position: absolute; 
+  right: 500px;
+}
+
+#forecast2Detail h2 {
+  margin: 25px;
+  color: #fff;
+  font-size: 20px;
+  text-align: center;
+  text-shadow: 0px 1px 3px rgba(0, 0, 0, 0.15);
+}
+
+#forecast2Detail ul {
+  margin: 10px;
+  padding: 0;
+}
+
+#forecast2Detail li {
+  background: #fff;
+  background: rgba(255,255,255,0.90);
+  padding: 20px;
+  display: inline-block;
+  border-radius: 5px;
+}
+
+#forecast2Detail .currently {
+  margin: 0 20px;
+}
+
+#forecast2Detail .weatherbox {
+  background: #fff;
+  background: rgba(255,255,255,0.50);
+  margin: 50px;
+  display: inline-block;
+  border-radius: 5px;
+}
+
+#forecast2Detail .currently {
+  margin: 10px 10px;
+}
+
+/********* forecast 3 ************/
+#forecast3Detail {
+  display: none;
+  margin: 0px auto;
+  text-align: left;
+  text-transform: uppercase;
+  position: absolute; 
+  right: 70px;
+}
+
+#forecast3Detail h2 {
+  margin: 25px;
+  color: #fff;
+  font-size: 20px;
+  text-align: center;
+  text-shadow: 0px 1px 3px rgba(0, 0, 0, 0.15);
+}
+
+#forecast3Detail ul {
+  margin: 10px;
+  padding: 0;
+}
+
+#forecast3Detail li {
+  background: #fff;
+  background: rgba(255,255,255,0.90);
+  padding: 20px;
+  display: inline-block;
+  border-radius: 5px;
+}
+
+#forecast3Detail .currently {
+  margin: 0 20px;
+}
+
+#forecast3Detail .weatherbox {
+  background: #fff;
+  background: rgba(255,255,255,0.50);
+  margin: 50px;
+  display: inline-block;
+  border-radius: 5px;
+}
+
+#forecast3Detail .currently {
+  margin: 10px 10px;
+}
+
+
+
